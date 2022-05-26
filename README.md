@@ -1,3 +1,3 @@
-# angular-2fkppw
+# hollie-angular
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/hollie-angular)
